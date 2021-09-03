@@ -1,5 +1,5 @@
 # termux-rich-presence
-a small tool using using nodejs and bash to give you a discord playing status about termux and its sessions
+a small tool using using nodejs to give you a rich presence like discord status
 ### Setup
 follow these steps to get the tool up and running
 - clone the repo
