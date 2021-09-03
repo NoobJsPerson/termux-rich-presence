@@ -1,0 +1,13 @@
+{
+	"type":0,
+	"name":"termux-rich-presence",
+	"state":"Made By AmineCrafter101",
+	"details":"",
+	"application_id":"",
+	"assets": {
+    "large_image": "",
+    "large_text": "",
+    "small_image": "",
+    "small_text": ""
+  }
+}
