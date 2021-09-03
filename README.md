@@ -1,4 +1,4 @@
-# termux-discord-activity
+# termux-rich-presence
 a small tool using using nodejs and bash to give you a discord playing status about termux and its sessions
 ### Setup
 follow these steps to get the tool up and running
