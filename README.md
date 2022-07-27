@@ -15,6 +15,7 @@ cd termux-discord-activity
 ```sh
 npm install
 ```
+- modify activity.json to meet your needs
 - run the nodejs server
 ```sh
 node index.js
