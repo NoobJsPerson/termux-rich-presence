@@ -8,7 +8,7 @@ git clone https://github.com/NoobJsPerson/termux-rich-presence
 ```
 - change directory to the clone folder
 ```sh
-cd termux-discord-activity
+cd termux-rich-presence
 ```
 - replace `yourtokenhere` by your discord token in the `.env` file
 - install the dependencies
